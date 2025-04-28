@@ -8,7 +8,7 @@
 (function() {
   // Konfigurácia
   let config = {
-    apiUrl: 'https://chatbot-api.yourserver.com/api',
+    apiUrl: 'https://chatbot-odbornicka-api-altankyorava.replit.app',
     language: 'sk',
     autoOpenDelay: 30000, // 30 sekúnd
     notificationDelay: 15000 // 15 sekúnd
